@@ -14,7 +14,7 @@ https://sdr-radio.groups.io/g/main/topic/cat_vfo_control_bug_on_multi/30322232
 
 It's working fine in my PC, but litle bit complicated to configure.
 
-Attached some pictures with configuration sample.
+Attached some pictures with configuration samples.
 
 I am not a Programmer, so any programmer help are welcome.
 
