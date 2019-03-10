@@ -14,8 +14,10 @@ https://sdr-radio.groups.io/g/main/topic/cat_vfo_control_bug_on_multi/30322232
 
 It's working fine in my PC, but litle bit complicated to configure.
 
+Attached some pictures with configuration sample.
+
 I am not a Programmer, so any programmer help are welcome.
 
-If possible a Windows GUI software or plugin, with menus for audio port and com port selection, will be good.
+If possible a Windows GUI software or plugin, with menus for audio channel and COM port selection, will be good.
 
 73 de Gustavo PR8KW
