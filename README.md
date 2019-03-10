@@ -16,6 +16,10 @@ It's working fine in my PC, but litle bit complicated to configure.
 
 Attached some pictures with configuration samples.
 
+HOT LNB Test - https://youtu.be/ebh_cyrRINQ
+
+COLD LNB Test - https://youtu.be/YZH8oQkuAjw
+
 I am not a Programmer, so any programmer help are welcome.
 
 If possible a Windows GUI software or plugin, with menus for audio channel and COM port selection, will be good.
